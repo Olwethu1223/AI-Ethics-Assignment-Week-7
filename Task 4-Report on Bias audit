@@ -1,4 +1,4 @@
-**Bias Audit on COMPAS Recidivism Dataset Using AI Fairness 360**
+***Bias Audit on COMPAS Recidivism Dataset Using AI Fairness 360***
 
 We audited the COMPAS dataset to assess racial bias in risk scores using IBM’s AI Fairness 360 toolkit. The dataset labels individuals as either likely or unlikely to recidivate. Racial attributes—specifically African-American vs. Caucasian—were treated as sensitive.
 
